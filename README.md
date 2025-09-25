@@ -1,8 +1,8 @@
 ### My name is ...
 I am a Software Engineer.</br>
--3 years on Python</br>
--1.5 years on Java and Javascript</br>
--2 months on C++
+-Since 2020 years on Python</br>
+-Since 2022 on Java and Javascript</br>
+-Since 2024 months on C++
 
           
 #
