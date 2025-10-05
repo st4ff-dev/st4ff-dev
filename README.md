@@ -1,10 +1,21 @@
 ### My name is ...
-I am a Software Engineer.</br>
--Since 2020 years on Python</br>
--Since 2022 on Java and Javascript</br>
--Since 2024 months on C++
+I'm **a Software Engineer** passionate about building reliable and elegant solutions — and understanding how things work under the hood 🧠
 
-          
+### 🧠 Tech Stack & Experience
+
+- 🐍 **Python** — since **2020**  
+- ☕ **Java** & **JavaScript** — since **2022**  
+- 💻 **C++** — since **2024**  
+- 🍎 Also familiar with **Swift** and **Objective-C**
+
+#
+
+### 🧩 Reverse Engineering
+
+I actively explore **reverse engineering** on iOS and other platforms:  
+- Static analysis (Hopper, IDA, Ghidra)  
+- Dynamic hooking (Frida, dylibs)  
+- Researching app internals, protocols, and security mechanisms
 #
 
 <details>
